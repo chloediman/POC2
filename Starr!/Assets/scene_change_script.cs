@@ -25,17 +25,7 @@ public class scene_change_script : MonoBehaviour
         // Retrieve the name of this scene.
         string sceneName = currentScene.name;
 
-        if (sceneName == "mouse")
-        {
-            SceneManager.LoadScene("laser");
-        }
-
         if (sceneName == "laser")
-        {
-            SceneManager.LoadScene("pet");
-        }
-
-        if (sceneName == "pet")
         {
             SceneManager.LoadScene("turtle");
         }
