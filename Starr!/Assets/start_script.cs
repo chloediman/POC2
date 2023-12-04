@@ -16,7 +16,7 @@ public class start_script : MonoBehaviour
     {
         if(Input.GetMouseButtonDown(0))
         {
-            SceneManager.LoadScene("laser");
+            SceneManager.LoadScene("game");
         }
     }
 }
