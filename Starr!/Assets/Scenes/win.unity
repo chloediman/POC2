@@ -181,7 +181,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: Click to try again!
+  m_text: Click to play again
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: 260ec876bd66745d4a8a32de4ff1af6b, type: 2}
   m_sharedMaterial: {fileID: 6406248488604259002, guid: 260ec876bd66745d4a8a32de4ff1af6b, type: 2}
@@ -270,7 +270,7 @@ GameObject:
   - component: {fileID: 301984534}
   - component: {fileID: 301984533}
   m_Layer: 5
-  m_Name: you lose
+  m_Name: you win
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -316,7 +316,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: You Lose :(
+  m_text: You Win!!
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: 260ec876bd66745d4a8a32de4ff1af6b, type: 2}
   m_sharedMaterial: {fileID: 6406248488604259002, guid: 260ec876bd66745d4a8a32de4ff1af6b, type: 2}
